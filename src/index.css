@@ -1,0 +1,8 @@
+.app {
+  min-height: 100vh;
+  font-size: 14px;
+}
+
+.navbar-expand-lg {
+  padding: 0;
+}
